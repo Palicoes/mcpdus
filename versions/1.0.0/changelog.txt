@@ -1,1 +1,12 @@
-test
+## Hey new modpack checker just to keep things informed, and updated.
+
+## ADDED
+- Modpack Update Checker https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker
+  - Used to keep things going from now on.
+- AutoModpack https://www.curseforge.com/minecraft/mc-mods/automodpack
+  - Will check your modlist & compare it to the server. It will download mods for you and require a restart afterwards.
+- Messenger Crow https://www.curseforge.com/minecraft/mc-mods/messenger-crow
+  - Does as the name implies
+- Goblin's Tyranny https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny
+  - Adds goblins, villages, and some roaming npc's
+- 
