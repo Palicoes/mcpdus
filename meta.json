@@ -4,13 +4,7 @@
   "versions": [
     {
       "id": "1.0.0",
-      "releasedAt": 209384093820,
-      "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/modpack/world-of-wynncraft/version/0.1",
-                "generic": "https://discord.gg/jqFF64rXZZ"
-            }
-        }
+      "releasedAt": 1736302715074,
     }
  
   ]
