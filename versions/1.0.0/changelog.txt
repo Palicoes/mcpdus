@@ -1,12 +1,61 @@
-## Hey new modpack checker just to keep things informed, and updated.
+ *Hey new modpack checker just to keep things informed, and updated.*
 
 ## ADDED
 - Modpack Update Checker https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker
-  - Used to keep things going from now on.
+  -  Used to keep things going from now on.
 - AutoModpack https://www.curseforge.com/minecraft/mc-mods/automodpack
-  - Will check your modlist & compare it to the server. It will download mods for you and require a restart afterwards.
+  -  Will check your modlist & compare it to the server. It will download mods for you and require a restart afterwards.
 - Messenger Crow https://www.curseforge.com/minecraft/mc-mods/messenger-crow
-  - Does as the name implies
+  -  Does as the name implies
 - Goblin's Tyranny https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny
-  - Adds goblins, villages, and some roaming npc's
-- 
+  -  Adds goblins, villages, and some roaming npc's
+- TaCZ: Plus https://www.curseforge.com/minecraft/mc-mods/tacz-plus-timeless-and-classics-feature-addon
+  -  TaCZ additions
+- Yung's Cave Biomes https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes
+  -  Adds two new cave biomes, new mobs, blocks and etc..
+-  AstemirLib
+  -  Another Library mod
+-  Infinity Cave https://www.curseforge.com/minecraft/mc-mods/infinity-cave
+  -  Changes the world height from -64 to -128 and adds a new type of cave generation. Features roguelike elements.
+-  Rustic Engineer https://www.curseforge.com/minecraft/mc-mods/rustic-engineer
+  -  Mechanical Constructs from transport to accesories.
+-  Monster&Girls: Secrets of Mermaids https://www.curseforge.com/minecraft/mc-mods/monsters-girls-secrets-of-mermaids
+  -  Questionable...
+-  ElysiumAPI 
+  -  Another Library Mod
+-  Ben's Sharks https://www.curseforge.com/minecraft/mc-mods/bens-sharks
+  -  Adds a bunch of sharks, oceans are more dangerous :)
+-  Illage and Spillage: Respillaged https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage-finally-ported
+  -  This mod is a continuation of Yellobross Productions's Illage and Spillage mod
+-  Wan's Ancient Beasts https://www.curseforge.com/minecraft/mc-mods/wans-ancient-beasts **BETA**
+  -  Cool dinosaurs, some fly, some dont.
+-  TACZ: Durability (Timeless and Classics Guns) https://www.curseforge.com/minecraft/mc-mods/tacz-durability
+  -  TACZ Addition
+-  Monsters&Girls https://www.curseforge.com/minecraft/mc-mods/monsters-girls-mushroom-update
+  -  Questionable...
+-  Choup's Drakvyrn Mod [Forge/Neoforge] https://www.curseforge.com/minecraft/mc-mods/choups-drakvyrn-mod
+  -  Choup's Drakvyrn Mod brings the Drakvyrn : a smaller yet undeniably cooler dragon like entity.
+-  Jaden's Nether Expansion https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion
+  -  Mod of the year award, Revamps the nether.
+-  SherdsAPI
+  -Another Library
+-  The Dawn Era https://www.curseforge.com/minecraft/mc-mods/the-dawn-era
+  -  **Possible Issues with Optifine** MO' DINOSAURS
+-  Pale Garden and Creaking https://www.curseforge.com/minecraft/mc-mods/pale-garden
+  -  Adds the pale garden and the creaking mf's from the latest MC update. Brings to 1.20.1
+-  YUNG's Cave Biomes Delight https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes-delight
+  -  Another Delight Addition Mod &#00e1ff&lCooking
+-  Goety - The Dark Arts https://www.curseforge.com/minecraft/mc-mods/goety
+  -  Long have you been curious of the vile magics of the illagers, specifically the Evokers. What fuels their magic? What do their Totems do besides providing a way to cheat death? How does one perform such feats?
+-  Occultism Delight https://www.curseforge.com/minecraft/mc-mods/occultism-delight
+  -  Another Delight Addition mod &#00e1ff&lCooking
+-  Goety & Spillage https://www.curseforge.com/minecraft/mc-mods/goety-spillage
+  -   compatibility mod between Goety and Illage & Spillage/Portage, that allows you to gain access to certain spells and abilities of the dastardly illagers of the latter mod!
+
+##  UPDATED
+-  Fire Extinguishers
+-  CuriosAPI
+-  MoonlightLib
+-  Jade 🔍
+-  Sodium/Embeddium Options API
+-  Time Stop Clock
