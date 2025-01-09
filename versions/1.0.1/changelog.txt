@@ -12,3 +12,7 @@
   -Sophisticated Backpacks
   -Sophisticated Core
   -Sophisticated Storage
+
+## Removed
+  -The Dawn Era
+    -  Lack of updates. Not Working.
