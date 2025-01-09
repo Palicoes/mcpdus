@@ -1,7 +1,7 @@
-##Re-Added 
+## Re-Added 
   -Simple Clouds https://www.curseforge.com/minecraft/mc-mods/simple-clouds
 
-##Updated
+## Updated
   -Delightful
   -Draconic Evolution
   -Fusion (Connected Textures)
