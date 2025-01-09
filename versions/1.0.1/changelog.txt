@@ -1,1 +1,14 @@
-something
+##Re-Added 
+  -Simple Clouds https://www.curseforge.com/minecraft/mc-mods/simple-clouds
+
+##Updated
+  -Delightful
+  -Draconic Evolution
+  -Fusion (Connected Textures)
+  -Mekanism Delight
+  -Mekanism: Weapons
+  -Messenger Crow
+  -Modonomicon
+  -Sophisticated Backpacks
+  -Sophisticated Core
+  -Sophisticated Storage
