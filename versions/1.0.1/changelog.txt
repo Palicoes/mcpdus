@@ -18,5 +18,5 @@
 ## Removed
   -The Dawn Era
     -  Lack of updates. Not Working.
-  -Dragon Mounts: Legacy
+  -Dragon Mounts: Legacy     *Manually Remove from curseforge mod pack*
     -  Decided to stop working, and threw a fucking boulder in the process.
