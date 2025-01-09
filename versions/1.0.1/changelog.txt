@@ -1,4 +1,4 @@
-**WILL BE AUTO-DOWNLOADED IGNORE UPDATE 1.0.0 -> 1.0.1 FOR THE MOMENT**
+*WILL BE AUTO-DOWNLOADED IGNORE UPDATE 1.0.0 -> 1.0.1 FOR THE MOMENT*
 
 ## Re-Added 
   -Simple Clouds https://www.curseforge.com/minecraft/mc-mods/simple-clouds
