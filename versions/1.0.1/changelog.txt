@@ -16,3 +16,5 @@
 ## Removed
   -The Dawn Era
     -  Lack of updates. Not Working.
+  -Dragon Mounts: Legacy
+    -  Decided to stop working, and throw a wrench in the process.
