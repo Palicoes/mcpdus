@@ -3,6 +3,10 @@
 ## Re-Added 
   -Simple Clouds https://www.curseforge.com/minecraft/mc-mods/simple-clouds
 
+## Added
+  -Pretty Rain https://www.curseforge.com/minecraft/mc-mods/pretty-rain
+    -  Pretty Rain replaces the default weather with prettier particle effects.
+
 ## Updated
   -Delightful
   -Draconic Evolution
