@@ -1,4 +1,4 @@
-*WILL BE AUTO-DOWNLOADED IGNORE UPDATE 1.0.0 -> 1.0.1 FOR THE MOMENT*
+*Updated through the curseforge Option or  just join server to autoupdate*
 
 ## Re-Added 
   -Simple Clouds https://www.curseforge.com/minecraft/mc-mods/simple-clouds
@@ -6,8 +6,10 @@
 ## Added
   -Pretty Rain https://www.curseforge.com/minecraft/mc-mods/pretty-rain
     -  Pretty Rain replaces the default weather with prettier particle effects.
+  -Chunky https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge
+    - Pre-generates chunks, quickly, efficiently, and safely .Mostly Sever Side.
 
-## Updated
+## Updated:Current of January 12th 2025
   -Delightful
   -Draconic Evolution
   -Fusion (Connected Textures)
@@ -18,9 +20,55 @@
   -Sophisticated Backpacks
   -Sophisticated Core
   -Sophisticated Storage
-
-## Removed
-  -The Dawn Era
-    -  Lack of updates. Not Working.
-  -Dragon Mounts: Legacy     *Manually Remove from curseforge mod pack*
-    -  Decided to stop working, and threw a fucking boulder in the process.
+  -Mekanism
+  -SupermartinCorelib
+  -MekanismGenrator
+  -ExtendedAE
+  -GeckoLibOculusCompat
+  -Particle Rain
+  -Fire Extinguisher
+  -Forge Ender Tech
+  -tacz
+  -Sophisticated Core
+  -MekanismTools
+  -Echanated Forge
+  -Draconic Evcolution
+  -Simple Backups
+  -LithoStiched
+  -Mekanism Weapons
+  -Mekanism Delight
+  -CuriosAPI
+  -LetsDo-Addon-compat
+  -Mekanism additions
+  -DTNPallette of Paws
+  -Jade
+  -Biomes O Plenty
+  -Tameable Beasts
+  -Modonomicon
+  -Cultural Delights
+  -Amendments
+  -MoonLight
+  -Creative Core
+  -Recipe Essentials
+  -Sophisticated Backpacks
+  -Angel Ring 2
+  -Sophisticated Storage
+  -Botania
+  -Radiant gear 
+  -Doggy Talents Next
+  -Better Chunk Loading
+  -Modern Fix
+  -Ars Nouveau Delight
+  -Connectivity
+  -Simple Drills
+  -PuzzleLib
+  -Ingredient Delight
+  -LithoStiched
+  -Bamboo Delight
+  -Particle Rain
+  -Letsdo Vinery
+  -Ctov 
+  -Wan's Ancient Beasts
+  -Water Media
+  -Balm
+  -Refined Storage Delight
