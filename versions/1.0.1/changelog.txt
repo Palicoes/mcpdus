@@ -15,13 +15,12 @@
 ## Troubleshooting
   -Auto-update doesn't update mods on the curseforge app but rather make an folder In your curseforge minecraft folder to run the games off of.
   -If you see Black outlines around tree leaves enabled fancy leaves under the performance setting
-  -Distant Horizons doesnt support every shader so if you see unloaded blocks/ghost blocks/chunks select or disable another shader.
+  -Distant Horizons doesnt support every shader. If you see ghost blocks or improperly rendered things go to distant horizon > advance options > generic rendering > enable rendering : False
   -You're able to disable distant horizon's through the in-game settings, for performance reasons or shader reasons.
-  -You can increase the cloud height for simple clouds on the main menu > Mod > simple clouds > Cloud height
+  -You can increase the cloud height for simple clouds on the main menu > Mod > simple clouds > Cloud height. Recommened 250+ Height due to mountains.
   -If you keep having issues when joining a world or server and experience extreme lag disable shaders on the main menu and try again.
   -If Issues with distant horizons persist you can uninstall it as it's client side and wont affect worlds or servers.
   -Seeing outlines on trees when looking at clouds can be fixed by selecting another shader or disabling.
-
 
 ## Updated:Current of January 12th 2025
   -Delightful
