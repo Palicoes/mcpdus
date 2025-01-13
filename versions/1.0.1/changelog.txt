@@ -1,4 +1,5 @@
-*Updated through the curseforge Option or  just join server to autoupdate*
+*Update through the curseforge Option or just join a server to auto-update*
+*Troubleshooting is down below*
 
 ## Re-Added 
   -Simple Clouds https://www.curseforge.com/minecraft/mc-mods/simple-clouds
@@ -8,6 +9,19 @@
     -  Pretty Rain replaces the default weather with prettier particle effects.
   -Chunky https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge
     - Pre-generates chunks, quickly, efficiently, and safely .Mostly Sever Side.
+  -Distant Horizons https://www.curseforge.com/minecraft/mc-mods/distant-horizons
+    - Stores locally loaded chunks and maintains visiblity even when unloaded.
+
+## Troubleshooting
+  -Auto-update doesn't update mods on the curseforge app but rather make an folder In your curseforge minecraft folder to run the games off of.
+  -If you see Black outlines around tree leaves enabled fancy leaves under the performance setting
+  -Distant Horizons doesnt support every shader so if you see unloaded blocks/ghost blocks/chunks select or disable another shader.
+  -You're able to disable distant horizon's through the in-game settings, for performance reasons or shader reasons.
+  -You can increase the cloud height for simple clouds on the main menu > Mod > simple clouds > Cloud height
+  -If you keep having issues when joining a world or server and experience extreme lag disable shaders on the main menu and try again.
+  -If Issues with distant horizons persist you can uninstall it as it's client side and wont affect worlds or servers.
+  -Seeing outlines on trees when looking at clouds can be fixed by selecting another shader or disabling.
+
 
 ## Updated:Current of January 12th 2025
   -Delightful
