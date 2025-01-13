@@ -13,6 +13,7 @@
     - Stores locally loaded chunks and maintains visiblity even when unloaded.
 
 ## Troubleshooting
+  -Enable Oculus for more performance, leave off if getting squid.jelly error logs.
   -Auto-update doesn't update mods on the curseforge app but rather make an folder In your curseforge minecraft folder to run the games off of.
   -If you see Black outlines around tree leaves enabled fancy leaves under the performance setting
   -Distant Horizons doesnt support every shader. If you see ghost blocks or improperly rendered things go to distant horizon > advance options > generic rendering > enable rendering : False
