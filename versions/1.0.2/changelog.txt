@@ -3,54 +3,79 @@
 ## Added
     - Cave Dust https://www.curseforge.com/minecraft/mc-mods/cave-dust
         -  mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust!
+
     - Relics: Artifacts Compat https://www.curseforge.com/minecraft/mc-mods/rar-compat
         -   this addon transforms Artifacts items to match Relics' deep leveling system, introducing new subtleties and mechanics.
+
     - Artifacts https://www.curseforge.com/minecraft/mc-mods/artifacts
         -   Artifacts is a mod which aims to make exploration more rewarding by adding various powerful items that cannot be crafted.
+
     - Dynamic Trees - Forbidden And Arcanus https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-forbidden-arcanus
         -   This mod makes Forbidden and Arcanus compatible with Dynamic Trees
+
     - TxniLib https://www.curseforge.com/minecraft/mc-mods/txnilib
         -   Library
+
     - Redden's Stone Lanterns https://www.curseforge.com/minecraft/mc-mods/reddens-stone-lanterns
         -   Another decoration mod, huh?
+
     - Dynamic Trees - Jaden's Nether Expansion https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-jadens
         -   This mod makes Jaden's Nether Expansion world gen changes compatible with Dynamic Trees.
+
     - RS Insert Export Upgrade https://www.curseforge.com/minecraft/mc-mods/rs-insert-export-upgrade
         -   This mod adds a Insert & Export Upgrade for Refined Storage.
+
     - Farmers Structures https://www.curseforge.com/minecraft/mc-mods/farmers-structures
         -   Farmers Structures is an add-on for Farmer's Delight that adds many new structures that teach the player how to use the mechanics.
+
     - Dark Paintings https://www.curseforge.com/minecraft/mc-mods/dark-paintings
         -   This mod adds many new paintings to the game! These paintings come in a variety of sizes and art styles. 
+
     - Trowels fork https://www.curseforge.com/minecraft/mc-mods/trowels-fork
         -   This mod adds trowel tool, which can be used to place random blocks from player's hotbar.
+
     - Dynamic Crosshair https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair
         -   Hides or changes the crosshair dependent on context.
+
     - Extractinator https://www.curseforge.com/minecraft/mc-mods/extractinator
         -    converts your throwaway blocks, such as gravel and cobblestone, into valuable resources.
+
     - MVS - Moog's Voyager Structures https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures
         -   Can be Server Only.  Explore awesome new structures made with vanilla blocks and entities.
+
     - Forbidden and Arcanus https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus
         -   Full of magical content, and beautiful textures!
+
     - Immersive Weathering [FORGE] https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-forge
         -   Immersive Weathering features a number of new and unique mechanics focused on adding life and immersion to the world.
+
     - Too Fast https://www.curseforge.com/minecraft/mc-mods/too-fast
         -   Removes the server-side limitations on player speed that result in "player XYZ moved too fast" messages in the console and rubber-banding. 
+
     - Mekanism Covers https://www.curseforge.com/minecraft/mc-mods/mekanism-covers
         -   A Mekanism addon that adds a simple way to cover its cables and pipes.
+
     - Accessories https://www.curseforge.com/minecraft/mc-mods/accessories
         -   Accessories is a Data-Driven Accessory mod
+
     - Curios Compat Layer for Accessories https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer
         -   Such mod acts as a compatibility layer for mods using the Curios API
+
     - Compact Machines https://www.curseforge.com/minecraft/mc-mods/compact-machines
         -   complicated machine contraptions and hide them within a single Compact Machine block.
+
     - Toni's Immersive Lanterns https://www.curseforge.com/minecraft/mc-mods/immersive-lanterns
         -    ability to wear Lanterns with the Accessories mod
+
     - Auto HUD https://www.curseforge.com/minecraft/mc-mods/auto-hud
         -   hides parts of the user interface (HUD) that are currently not interesting.
+
     - Overflowing Bars https://www.curseforge.com/minecraft/mc-mods/overflowing-bars
         -  Get proper, nice and compact health, armor and armor toughness bars in just this single mod!
+        
     - Illager Invasion https://www.curseforge.com/minecraft/mc-mods/illager-invasion
         -    Almost a dozen new illagers are added, all with unique mechanics and abilities.
+        
     - Valhelsia Core
         -   Core Mod
     
@@ -68,3 +93,4 @@
     - Sophisticated Backpacks
     - Dynamic Trees - Biomes O' Plenty
     - Applied Energistics 2
+    - ExtendedAE
