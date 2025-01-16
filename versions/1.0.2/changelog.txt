@@ -75,10 +75,32 @@
         
     - Illager Invasion https://www.curseforge.com/minecraft/mc-mods/illager-invasion
         -    Almost a dozen new illagers are added, all with unique mechanics and abilities.
-        
+
     - Valhelsia Core
         -   Core Mod
+
+    - TACZ Bullet Proof Enchant Forge Add-on https://www.curseforge.com/minecraft/mc-mods/tacz-bullet-proof-enchant-add-on
+        -    Bullet Proof Enchant which has four levels and with each level it lessesens the damage you take from tacz guns.
+
+    - Fibers' Guns Pack for TACZ https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz
+        -   NEW GUNS!
+
+    - [TACZ]Enchanted Arsenal https://www.curseforge.com/minecraft/mc-mods/enchanted-arsenal
+        -   eight new enchantments, and 2 curese.
     
+    - [TaCZ] LesRaisins Append Pack https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-guns-lesraisins-append-pack
+        -   This mod is the first append pack in the history of TaC, providing TaC's players with more weapon options!
+
+    - [TACZ] Gucci & Vuitton Attachments https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments
+        -   An extension with huge amounts of well-made attachments for the mod Timeless and Classic Guns: Zero
+    
+    ##Notes
+    -You can turn off the new client based mods or configure them to your liking.
+        -Dynamic Crosshair
+        -Cave Dust
+        -AutoHud
+        -Overflowing Bars
+
     ##updated
     - Crazy Chocobos!
     - The Bumblezone (NeoForge/Forge)
