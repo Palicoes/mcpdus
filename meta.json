@@ -25,7 +25,7 @@
     },
     {
       "id": "1.0.2",
-      "releasedat": 1737069102159,
+      "releasedAt": 1737069102159,
       "promotions": {
           "downloads": {
                 "modrinth": "",
@@ -36,7 +36,7 @@
     },
     {
       "id": "1.0.3",
-      "releasedat": 1737080527682,
+      "releasedAt": 1737082428000,
       "promotions": {
           "downloads": {
                 "modrinth": "https://modrinth.com/",

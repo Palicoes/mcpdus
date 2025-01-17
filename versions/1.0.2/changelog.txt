@@ -1,9 +1,7 @@
 *Keeping the trend of expanding on mods*
 
 ## Added
------
 
-```
     - Cave Dust https://www.curseforge.com/minecraft/mc-mods/cave-dust
         -  mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust!
 
@@ -97,7 +95,7 @@
     - [TACZ] Gucci & Vuitton Attachments https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments
         -   An extension with huge amounts of well-made attachments for the mod Timeless and Classic Guns: Zero
     
-    ```
+
     ###Notes
     -You can turn off the new client based mods or configure them to your liking.
 

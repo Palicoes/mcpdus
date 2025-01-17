@@ -1,10 +1,12 @@
-###Fix
+*Pack didn't start due to a Beta Mod, currently fixed*
+
+## FIX
 -Intialized error is fixed
 
-###Removed 
+## REMOVED
 -Simple Clouds
 
-##added
+## ADDED
 - RPG Companions: Tiny Dragons https://www.curseforge.com/minecraft/mc-mods/rpg-companions-tiny-dragons'
     -   Hatch, tame and explore with Tiny Dragons!
 
