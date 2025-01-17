@@ -27,11 +27,12 @@
       "id": "1.0.2",
       "Releasedat": 1737069102159,
       "Promotions": {
-        "downloads": {
-          "Curseforge":"https://www.curseforge.com/minecraft/modpacks/excessive/files/6094598/",
-          "Generic": ""
+          "downloads": {
+                "modrinth": "",
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/excessive/files/6094598/",
+                "generic": ""
+            }
         }
-      }
     }
 
   ]
