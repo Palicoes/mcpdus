@@ -25,8 +25,8 @@
     },
     {
       "id": "1.0.2",
-      "Releasedat": 1737069102159,
-      "Promotions": {
+      "releasedat": 1737069102159,
+      "promotions": {
           "downloads": {
                 "modrinth": "",
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/excessive/files/6094598/",
@@ -36,12 +36,12 @@
     },
     {
       "id": "1.0.3",
-      "Releasedat": 1737080527682,
-      "Promotions": {
+      "releasedat": 1737080527682,
+      "promotions": {
           "downloads": {
-                "modrinth": "",
-                "curseforge": "",
-                "generic": ""
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
             }
         }
     }
