@@ -33,7 +33,17 @@
                 "generic": ""
             }
         }
+    },
+    {
+      "id": "1.0.3",
+      "Releasedat": 1737080527682,
+      "Promotions": {
+          "downloads": {
+                "modrinth": "",
+                "curseforge": "",
+                "generic": ""
+            }
+        }
     }
-
   ]
 }

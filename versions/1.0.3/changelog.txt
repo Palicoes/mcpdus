@@ -1,0 +1,21 @@
+###Fix
+-Intialized error is fixed
+
+###Removed 
+-Simple Clouds
+
+##added
+- RPG Companions: Tiny Dragons https://www.curseforge.com/minecraft/mc-mods/rpg-companions-tiny-dragons'
+    -   Hatch, tame and explore with Tiny Dragons!
+
+- Dragon Survival Compatibility https://www.curseforge.com/minecraft/mc-mods/dragon-survival-compatibility
+    -   Compat Mod
+
+- Additional Dragons https://www.curseforge.com/minecraft/mc-mods/additional-dragons
+    -   An addon for Dragon Survival. Adds 3 playable dragon sub-types: Deepwoods, Tectonic, and Primordial.
+
+- Hiccup's Legacy - How to Train Your Dragon https://www.curseforge.com/minecraft/mc-mods/hiccups-legacy
+    -   This mod brings rideable dragons, new weapons and armor, unique plants, and various mechanics to Minecraft.
+
+- True Ending ~ Ender Dragon Overhaul https://www.curseforge.com/minecraft/mc-mods/true-ending
+    -   True Ending dramatically overhauls the vanilla Ender Dragon.
