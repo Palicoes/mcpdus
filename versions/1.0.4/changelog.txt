@@ -1,0 +1,78 @@
+*Slight stuff*
+
+## ADDED
+
+- Ribbits https://www.curseforge.com/minecraft/mc-mods/ribbits
+    -   Ribbits will add swamp villages full of tiny frog villagers called ribbits! These little guys will sometimes sit down in groups to play music, which you can join in with!
+
+- Monstie Hunter: Baby Monster Collector! https://www.curseforge.com/minecraft/mc-mods/monstie-hunter-baby-monster-collector
+    -   The world is VAST and full of DANGEROUS monsters, BUT..... not all of them are a threat! Explore the world and encounter baby monsters!
+
+- Advanced Chimneys https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
+    -   his mod adds chimney pipes, through which smoke from the fire or furnace goes up into the air.
+
+- Alshanex's Familiars https://www.curseforge.com/minecraft/mc-mods/alshanexs-familiars
+    -    adds new mobs called "Familiars", which can be found scattered around the world. These familiars can be tamed using Arcane Essence, which will make them follow you in your adventures and fight at your side using powerful spells.
+
+- Pipe Connector https://www.curseforge.com/minecraft/mc-mods/pipe-connector
+    -   Will automatically connect two entities and auto dig to make this happen.
+
+- unusual Prehistory https://www.curseforge.com/minecraft/mc-mods/unusual-prehistory-forge
+    -   Unusual Prehistory is a mod that adds a way to revive a variety of prehistoric creatures and plants and various ways to use them! 
+
+- just enough golems https://www.curseforge.com/minecraft/mc-mods/just-enough-golems
+    -   Ever Wanted More Golems?
+
+- Double doors https://www.curseforge.com/minecraft/mc-mods/double-doors
+    -   Double Doors is a minimalistic mod which adds the ability for identical double doors, trapdoors and fence gates to be opened simultaneously.
+
+- Geysers https://www.curseforge.com/minecraft/mc-mods/geysers
+    -   Adds different types of geysers to the world
+
+- Mutated Items https://www.curseforge.com/minecraft/mc-mods/mutated-items
+    -   This mod is all about taking some of the most iconic items from Minecraft and turning them into new creatures called Mutated Items.
+
+- Land of Goblins https://www.curseforge.com/minecraft/mc-mods/land-of-goblins
+    -   A small, but complete mod. Meet the goblins and their striking variants! These little beings will be your new friends (enemies) in the lonely world of Minecraft!
+
+- clayworks https://www.curseforge.com/minecraft/mc-mods/clayworks
+    -   Introduces the Kiln, a furnace variant for cooking building blocks faster.
+
+- Easy copper rails https://www.curseforge.com/minecraft/mc-mods/easy-copper-rails
+    -   Allows copper to be used in rail making instead of iron.
+
+- Advanced netherite https://www.curseforge.com/minecraft/mc-mods/advanced-netherite
+    -   Advanced Netherite is a configurable, vanilla friendly, open-source mod that adds in more tiers of Netherite!
+
+- Dynamic Trees + https://www.curseforge.com/minecraft/mc-mods/dynamictreesplus
+    -   Expand the scope of DT by creating dynamic foliage that is not strictly a tree.
+
+- Dynamic Trees for Fruitful Fun 🍊 https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-fruit-trees
+
+- Fruitful Fun 🍊https://www.curseforge.com/minecraft/mc-mods/fruit-trees
+    -   The main focus of Fruitful Fun is to expand the farming aspect of the game and provide players with more in-depth and impressive experiences.
+
+## REMOVED
+
+-FallingTree
+    -   It isn't compatible with dynamic trees and forces you to strip logs before you can cut down a tree, whole.
+
+## UPDATED
+    - Jade 🔍
+    - [Let's Do] HerbalBrews
+    - Moonlight Lib
+    - Dynamic Trees
+    - WATERFrAMES: Multimedia Displays
+    - CreativeCore
+    - Ars Nouveau Delight
+    - [Let's Do] Vinery
+    - Crazy Chocobos!
+    - Friends&Foes (Forge/NeoForge) (Copper Golem,Crab,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner)
+    - Monsters&Girls: Secrets of Mermaids
+    - Sodium/Embeddium Options API
+    - TxniLib
+    - Auto HUD
+    - Accessories
+    - Botania Delight
+    - Fusion (Connected Textures)
+    - Hiccup's Legacy - How to Train Your Dragon
