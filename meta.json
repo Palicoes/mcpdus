@@ -44,6 +44,15 @@
                 "generic": "https://example.com/"
             }
         }
-    }
+    },
+    {
+        "id": "1.0.4",
+        "releasedAt": 1737506727976,
+        "promotions": {
+            "downloads": {
+                  "curseforge": "https://www.curseforge.com/"
+              }
+          }
+      }
   ]
 }
