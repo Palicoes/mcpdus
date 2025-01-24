@@ -1,0 +1,60 @@
+*Today is a good day*
+
+## ADDED
+
+CC: Tweaked https://modrinth.com/mod/cc-tweaked
+- ComputerCraft fork adding programmable computers, turtles and more to Minecraft.
+
+CC: BallistiX Updated https://www.curseforge.com/minecraft/mc-mods/cc-ballistix-updated
+- adds a peripheral which allows control over the missile silo from the BallistX mod. 
+
+Stellar View https://www.curseforge.com/minecraft/mc-mods/stellarview *Client*
+- Stellar View helps your sky look just a bit better while keeping the Vanilla feeling.
+
+Chargers https://www.curseforge.com/minecraft/mc-mods/chargers
+- A mod that adds 4 tiers of item chargers and a wireless one.
+
+Easy Mob Farm https://www.curseforge.com/minecraft/mc-mods/easy-mob-farm
+- Easy Mob Farm is a streamlined, server-friendly mod that allows players to capture and farm mobs for their loot.
+
+Iron's Spells 'n Spellbooks https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks
+- Fight dangerous wizards, raid a plethora of structures, delve through dungeons, collect resources and spells, and find powerful magical artifacts!
+
+T.O Tweaks - Iron's Spells Addon https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells
+- TravelOptics Tweaks is an Iron's Spells 'n Spellbooks addon that also integrates many popular mods like Cataclysm and Alex's Caves.
+
+Iron's Spells' Recipe Additions https://www.curseforge.com/minecraft/mc-mods/irons-recipe-additions
+- Recipe Additions adds a few additional recipes to Iron's Spells 'n Spellbooks!
+
+Iron's Spells Delight https://www.curseforge.com/minecraft/mc-mods/irons-spells-delight
+- Another Delight Addition
+
+Illage and Spell-age: Iron's Spells Addon https://www.curseforge.com/minecraft/mc-mods/illage-and-spell-age
+- This is an addon for both Illage and Spillage and Iron's Spells 'n Spellbooks, introducing new spells and equipment inspired by the Illagers from Illage and Spillage.
+
+Lionfish API
+- Library
+
+Apothic Attributes https://www.curseforge.com/minecraft/mc-mods/apothic-attributes
+- Apothic Attributes is a library mod that provides a variety of attributes and attribute-related utilities, which makes interacting with, debugging, and using attributes much easier.
+
+L_Ender 's Cataclysm https://www.curseforge.com/minecraft/mc-mods/lendercataclysm
+- Cataclysm is a mod that adds difficult dungeons, challenging boss-fights and powerful items.
+
+## REMOVED
+
+Ribbits
+
+## UPDATED
+
+Sophisticated Backpacks
+Structure Essentials[Forge/Fabric]
+ExtendedAE
+WATERMeDIA: Multimedia API *Client*
+Immersive Weathering [FORGE]
+Moonlight Lib
+WATERFrAMES: Multimedia Displays
+Dynamic Trees
+Memory Settings[Neo/Forge/Fabric]
+Sophisticated Storage
+Cave Dust
