@@ -56,7 +56,7 @@
         },
         {
             "id": "1.0.5",
-            "releasedAt": 1737680230,
+            "releasedAt": 1737631315000,
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/mod/cc-tweaked/",
@@ -66,10 +66,10 @@
           },
           {
             "id": "1.0.6",
-            "releasedAt": 1738191318,
+            "releasedAt": 1738193506302,
             "promotions": {
                 "downloads": {
-                      "curseforge": "https://www.curseforge.com/minecraft/modpacks/excessive/files/6118321/"
+                      "curseforge": "https://www.curseforge.com/minecraft/modpacks/excessive/files/6138072/"
                   }
               }
           }     
