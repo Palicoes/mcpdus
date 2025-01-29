@@ -1,0 +1,73 @@
+*Coolio*
+
+## ADDED
+Ghost https://www.curseforge.com/minecraft/mc-mods/ghost/
+ - This mod will add two friendly ghosts to your worlds!
+
+Creeper Overhaul https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul/
+- Adds a Variety of creepers, some friendly.
+
+Ars Fauna https://www.curseforge.com/minecraft/mc-mods/ars-fauna
+- This mod adds new variants of the Starbuncle, Drygmy, and Whirlisprig from Ars Nouveau to the world for ambience.
+
+Mahou Tsukai https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai
+- Mahou Tsukai is a magic mod focused mainly on spell uniqueness and special effects, instead of focusing on how spells are created, as many magic mods do.
+
+Chest With Legs https://www.curseforge.com/minecraft/mc-mods/chest-with-legs
+- A mod that adds a new way to store your items. 
+
+Bigger Reactors https://www.curseforge.com/minecraft/mc-mods/biggerreactors
+- You want power? We got power. Bigger Reactors is an energy generation mod based on the original by Erogenous Beef.
+
+Ars Artifice https://www.curseforge.com/minecraft/mc-mods/ars-artifice
+- Ars Artifice focuses primarily on a new Artificing mechanic, allowing players to create curios that automatically cast spells when certain events effect the player.
+
+Gamma Creatures https://www.curseforge.com/minecraft/mc-mods/gamma-creatures
+- Tamable and rideable creatures, new saddles for each creature, new blocks, ores, biomes, and items
+
+CERBON's Better Beacons https://www.curseforge.com/minecraft/mc-mods/cerbons-better-beacons/
+- An improved version of Minecraft's beacon.
+
+Cognition https://www.curseforge.com/minecraft/mc-mods/experience-obelisk/
+- Cognition aims to overhaul player XP, by providing new ways to store, transport, and use it in weird and wonderful ways.
+
+Hole Filler Mod https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod/
+- A lightweight mod consisting of a hole filler. Throw it and walk away. Your hole will be filled in.
+
+Corail Deconstruction Table https://www.curseforge.com/minecraft/mc-mods/corail-deconstruction-table/
+- The mod offers set of reverse crafting tools with balancing capabilities.
+
+CERBON's API [Forge | Fabric | NeoForge]
+
+Quartz
+
+Phosphophyllite
+
+## UPDATED
+
+[Let's Do] Vinery
+Cooking for Blockheads
+Corpse
+Dragon Survival Compatibility
+Extreme Reactors
+Illage and Spillage: Respillaged
+Iron's Spells' Recipe Additions
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Tools
+Memory Settings[Neo/Forge/Fabric]
+ModernFix
+Modpack Update Checker
+Moonlight Lib
+PneumaticCraft: Repressurized
+Pretty Rain
+ShadowizardLib
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Species
+Structure Essentials[Forge/Fabric]
+The Aether
+The Bumblezone (NeoForge/Forge)
+Xaero's Minimap
