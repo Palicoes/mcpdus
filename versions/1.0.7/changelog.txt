@@ -1,0 +1,67 @@
+
+
+## *ADDED*
+
+Iron Furnaces https://www.curseforge.com/minecraft/mc-mods/iron-furnaces
+- Maximize smelting efficiency with unparalleled speed, reconfigurable sides, augments for smoking and blasting, and much more.
+
+AE2: Crafting Tree https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree
+- give Applied Energistics 2 add a crafting tree
+
+Refined Crafter Proxy https://www.curseforge.com/minecraft/mc-mods/refined-crafter-proxy
+- This mod adds the crafter proxy to Refined Storage, which acts like a crafter but gets its patterns from another linked crafter.
+
+AE2 QoL Recipes https://www.curseforge.com/minecraft/mc-mods/ae2-qol-recipes
+- A small mod that simply adds 277 cable related recipes to Applied Energistics 2.
+
+AE2 Import Export Card https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card
+- This mod adds an Import & Export Card for Applied Energistics 2.
+
+Bigger AE2 https://www.curseforge.com/minecraft/mc-mods/bigger-ae2
+- Added 4 different types of AE disk.
+
+Applied Energistics 2 Wireless Terminals https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals
+- It features several wireless versions of Applied Energistics 2 terminals with support for a Quantum Bridge Card, which allows terminals to work from everywhere and even across dimensions.
+
+Applied Flux https://www.curseforge.com/minecraft/mc-mods/applied-flux
+- Add new cells that allow you to store energy(FE) in ME network.
+
+Polymorphic Energistics https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics
+- An add-on mod providing Polymorph support for the Crafting Terminal and Pattern Encoding Terminal from Applied Energistics 2.
+
+StarbuncleMania https://www.curseforge.com/minecraft/mc-mods/starbunclemania
+- Addon to the Ars Nouveau mod. Still in a beta stage, here be Stargons! Similarly to Ars Creo, this mod aim to allow more magic/tech hybrids with the Ars style of using cute animal workers instead of techy pipes and cables. 
+
+PackagedAuto https://www.curseforge.com/minecraft/mc-mods/packagedauto
+-  Aims to use "packages" of items to allow autocrafting with more than 9 items, and for 1.18.1+, fluid crafting is also supported.
+
+PackagedMekemicals https://www.curseforge.com/minecraft/mc-mods/packagedmekemicals
+
+Compact Void Miners https://www.curseforge.com/minecraft/mc-mods/compact-void-miners
+- Do you hate large multiblock structures? Do you hate having to find new locations to gather ores? Do you hate having too much spare power? If so, this is the mod for you!
+
+Simple Storage Network https://www.curseforge.com/minecraft/mc-mods/simple-storage-network
+- Simple network for your storage needs. Connect some cables, and boom bam.
+
+Minecolonies https://www.curseforge.com/minecraft/mc-mods/minecolonies
+- MineColonies is an interactive building mod that allows you to create your own thriving town within Minecraft. It lets your leadership skills soar by providing you with everything you need to build your kingdom. 
+
+Minecolonies Add-ons as well.
+
+Extra Hostile Neural Networks https://www.curseforge.com/minecraft/mc-mods/extra-hostile-neural-networks
+- This mod is an addon to the Hostile Neural Networks mod. The mod adds 4 mechanisms and a new data model.
+
+Dependents
+
+
+## *UPDATED*
+
+- Amendments
+- Moonlight Lib
+- Sophisticated Storage
+- Sophisticated Core
+- Supplementaries
+- Sophisticated Backpacks
+- Illage and Spillage: Respillaged
+- L_Ender 's Cataclysm
+- The Bumblezone (NeoForge/Forge)
