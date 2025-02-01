@@ -1,0 +1,14 @@
+## *REMOVED*
+
+Illage and Spillage: Respillaged 1.2.6
+- Conflict on startup due to sound instances on the client. Updated to 1.2.7
+
+## *UPDATED*
+Sophisticated Core
+- L_Ender 's Cataclysm
+- PneumaticCraft: Repressurized
+- Waystones
+- MineColonies
+- Blueprint
+- Moonlight Lib
+- Illage and Spillage: Respillaged
