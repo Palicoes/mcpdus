@@ -90,6 +90,15 @@
                       "curseforge": "https://www.curseforge.com"
                   }
               }
+          },
+          {
+            "id": "1.0.9",
+            "releasedAt": 1738639506186,
+            "promotions": {
+                "downloads": {
+                      "curseforge": "https://www.curseforge.com"
+                  }
+              }
           }         
   ]
 }

@@ -1,0 +1,77 @@
+*Performance is the goal*
+
+## *ADDED*
+
+ImmediatelyFast https://www.curseforge.com/minecraft/mc-mods/immediatelyfast
+- ImmediatelyFast generally optimizes all immediate mode rendering by using a custom buffer implementation which batches draw calls and uploads data to the GPU in a more efficient way.
+
+Fast Workbench https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+- This is a mod aimed at improving performance of all crafting-related functions.
+
+FastFurnace https://www.curseforge.com/minecraft/mc-mods/fastfurnace
+- FastFurnace utilizes mixins to edit the functionality of the Furnace, Blast Furnace, and Smoker, improving their TPS performance (not smelting speed!)
+
+FastSuite https://www.curseforge.com/minecraft/mc-mods/fastsuite
+- FastSuite enables faster execution of recipe matching through the use of concurrency.
+
+BadOptimizations https://www.curseforge.com/minecraft/mc-mods/badoptimizations
+- A collection of mostly micro optimizations that add up to something bigger!
+
+CullLessLeaves Reforged https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged
+- Instead of leaving just the outer layer of leaves, Cull Less Leaves also renders a certain amount of layers defined in the config.
+
+ServerCore
+-  mod that aims to optimize the minecraft server. Works on both dedicated servers and singleplayer!
+
+AllTheLeaks https://www.curseforge.com/minecraft/mc-mods/alltheleaks
+- This mod is designed to fix various memory leaks from mods, Minecraft and (Neo)Forge.
+
+FastBoot https://www.curseforge.com/minecraft/mc-mods/fastboot *Client*
+- FastBoot is a mod that made to reduce game loading time, by using mixins overwrites on game loading stage
+
+Entity Textures Features https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric
+- ETF is a Fabric (Quilt compatible) & Forge mod that adds many new Entity Texture Features , including entity and player skin features!
+
+Entity Model Features https://www.curseforge.com/minecraft/mc-mods/entity-model-features
+- Entity Model Features (EMF) is a Fabric, Quilt & Forge mod that adds support for OptiFine's Custom Entity Models (CEM).
+
+Skin Layers 3D https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
+- Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate.
+
+Euphoria Patches https://www.curseforge.com/minecraft/mc-mods/euphoria-patches *Client*
+- Euphoria Patches, an add-on for Complementary Shaders (Reimagined/Unbound), developed by SpacEagle17.
+
+ConnectedTexturesMod https://www.curseforge.com/minecraft/mc-mods/ctm *Client*
+- Allows resource packs to add connected textures, emissive rendering, and much more.
+
+Overrloaded Armor Bar https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar
+- This mod allows armor values over 20 to be displayed as different colored (configurable) icons depending on how many times you fill the bar.
+
+Radium Reforged https://www.curseforge.com/minecraft/mc-mods/radium-reforged*Client*
+- An unofficial fork of Lithium by CaffeineMC, on Forge
+
+Too Many Paintings! https://www.curseforge.com/minecraft/mc-mods/too-many-paintings-forge-fabric
+- Make over 50+ new paintings instantly available in your Minecraft world! Bored of the limited painting options? This mod unlocks a treasure trove of artistic possibilities.
+
+Macaw's Paintings https://www.curseforge.com/minecraft/mc-mods/macaws-paintings
+- So since so many likes my decoration mods, I decided to give paintings a shot. It is a completely new direction where I am heading, so expect a lot of updates for this mod.
+
+
+
+## *UPDATED*
+- Connectivity
+- Doggy Talents Next
+- Extra Hostile Neural Networks
+- Farmer's Delight
+- Goety & Spillage
+- L_Ender 's Cataclysm
+- Lithostitched
+- MineColonies
+- Railcraft Reborn
+- RPG Companions: Tiny Dragons
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- TACZ: Durability (Timeless and Classics Guns)
+- Wan's Ancient Beasts
+- Waystones
