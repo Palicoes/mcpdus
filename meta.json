@@ -99,6 +99,15 @@
                       "curseforge": "https://www.curseforge.com/minecraft/modpacks/excessive/files/6156036/"
                   }
               }
+          },
+          {
+            "id": "1.1.0",
+            "releasedAt": 1738900422129,
+            "promotions": {
+                "downloads": {
+                      "curseforge": ""
+                  }
+              }
           }         
   ]
 }

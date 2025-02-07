@@ -1,0 +1,57 @@
+*Some addons and blah blah blah...*
+
+## *ADDED*
+ Cable Facades https://www.curseforge.com/minecraft/mc-mods/cable-facades
+- Cover up pretty much any cable from most mods
+
+pipez https://www.curseforge.com/minecraft/mc-mods/pipez
+- This mod adds simple and highly configurable pipes that are designed to create as little lag as possible.
+
+Advanced Peripheralshttps://www.curseforge.com/minecraft/mc-mods/advanced-peripherals
+- Advanced Peripherals is a mod that adds many useful extensions for CC:Tweaked(Computercraft).
+
+AdvancedAE https://www.curseforge.com/minecraft/mc-mods/advancedae
+- Advanced AE focuses on convenience and improving user experience when handling your ME System.
+
+Ars Energistique https://www.curseforge.com/minecraft/mc-mods/ars-energistique
+- Ars Énergistique is an add-on mod providing integration between Applied Energistics 2 and Ars Nouveau, allowing for deeper interaction between ME networks and Ars magic setups.
+
+Applied Botanics Addon https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon
+- An addon for Botania support for AE2.
+
+AE2 Network analyser https://www.curseforge.com/minecraft/mc-mods/ae2-network-analyser
+- Add an analyser to see what is going on in your ME network.
+
+Iron Chests https://www.curseforge.com/minecraft/mc-mods/iron-chests
+- Iron Chests mod has chests for the various metals in vanilla minecraft with varying sizes!
+
+MultiBeds https://www.curseforge.com/minecraft/mc-mods/multibeds
+- Make the bed of your dreams. Choose patterns, textures, and colors. Even draw your own pixel art on top!
+
+Bartering Station https://www.curseforge.com/minecraft/mc-mods/bartering-station
+- Bartering Station adds one brand new utility block: Put in all your gold ingots, they'll be given to the piglins in the area.
+
+Vampirism - Become a Vampire! https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
+- Vampires are fast, strong and blood-thirsty entities, which hate the sun, but do not fear the night - and the best thing is: You can become one!
+
+Werewolves - Become a Beast! https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast
+- Werewolves are strong and brutal with sharp teeth and claws.
+
+
+## *UPDATED*
+- [Let's Do] HerbalBrews
+- Chest With Legs
+- Clayworks
+- Connectivity
+- Goety & Spillage
+- Illage and Spillage: Respillaged
+- Mowzie's Mobs
+- Occultism
+- Patchouli
+- Recipe Essentials[Forge/Fabric]
+- Roundabout: The JoJo Mod
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Supplementaries
+- Waystones
