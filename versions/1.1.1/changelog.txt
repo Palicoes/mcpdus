@@ -1,0 +1,117 @@
+*New Additions*
+
+## *ADDED*
+
+mage flame https://www.curseforge.com/minecraft/mc-mods/mage-flame
+	- Mage Flame is a small mod that adds the ability to create dynamic light sources that follow you wherever you go.
+
+Block Runner https://www.curseforge.com/minecraft/mc-mods/block-runner-forge
+	- Block Runner makes you run faster on certain blocks, it's that simple. Mainly useful for paths since dirt paths now actually offer some benefit besides looking fancy.
+
+Icarus https://www.curseforge.com/minecraft/mc-mods/icarus
+	- Icarus is a small mod that adds a variety of colourful and unique wings that can be worn in the Back (Curios) or Cape (Trinkets) slot.
+
+Malum https://www.curseforge.com/minecraft/mc-mods/malum
+	- Malum is a dark magic mod centered around spirit arcana; a dark study of soul magic. It's divided into several interpretations of the strange field of magic, which the player will explore through the use of the Encyclopedia Arcana, a strange journal written by an unknown author.
+
+Actually Subtractions https://www.curseforge.com/minecraft/mc-mods/actually-subtractions
+	- An unofficial 1.20.1 backport of Actually Additions. Use the Atomic Reconstructor and the Empowerer to turn minerals into powerful crystals that allow the creation of useful machines for processing and sorting items, lasers for wirelessly transporting energy, items and fluids, renewable oil to generate power, and much more.
+
+Dynamic FPS https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
+	- Reduce resource usage while Minecraft is in the background, idle, or on battery.
+
+Cosy Critters & Creepy Crawlies https://www.curseforge.com/minecraft/mc-mods/cosy-critters-creepy-crawlies
+	- Adds adorable and abstruse atmospheric animals, accentuating aesthetics.
+
+MultiBlocked2 https://www.curseforge.com/minecraft/mc-mods/multiblocked2
+	- Multiblocked2 (mbd2) is the more powerful visual custom machine/multi-block structure mod after mbd1(multiblocked). Mbd2 is an extremely flexible yet vanilla-esque multiblock mod, that embraces aspects of MultiblockTweaker and Modular Machinery.
+
+AE2 MEGA Things https://www.curseforge.com/minecraft/mc-mods/ae2-mega-things
+	- This mod is an add-on for AE2 Things and MEGA Cells, introducing a variety of DISK Cells without type restrictions.
+
+Corpse X Curios API Compat https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat
+	- This little mod allows you to directly equip your Curios items to the respective slots
+
+CC Rail https://www.curseforge.com/minecraft/mc-mods/cc-rail
+	- CC Rail enables you to control certan Railcraft Reborn blocks with CC: Tweeked enabling more advanced routing and control.
+
+Deep Aether https://www.curseforge.com/minecraft/mc-mods/deep-aether
+	- It aims to add lots of new features to give players a chance to venture deeper into the Aether dimension, while also maintaining its original style.
+
+Faunify https://www.curseforge.com/minecraft/mc-mods/faunify
+	- Faunify adds a small collection of cute, tameable creatures to your Minecraft world! Currently, Faunify adds 4 different creatures, all with unique AI mechanics, as well as 2 ambient critters!
+
+Tesseract https://www.curseforge.com/minecraft/mc-mods/tesseract
+	- Tesseract allows you to transport Items, Fluid and Energy. Tesseracts work at any distance and even across dimensions! Use multiple channels to have different groups of Tesseracts!
+
+Portable Hole https://www.curseforge.com/minecraft/mc-mods/portable-hole
+	- Portable Hole adds one single item you can only find in strongholds: An arcane tool that temporarely makes blocks vanish in a 3x3 tunnel. Only a few seconds later those blocks will reappear just as they were. So don't be distracted by the fancy looks and be quick when going through the hole.
+
+Ping Wheel https://www.curseforge.com/minecraft/mc-mods/ping-wheel
+	- Modern co-op games often allow players to communicate via "pings" to mark in-game locations. This simple mod provides such pinging mechanism for the fabric and forge mod loaders.
+
+Easy Anvil https://www.curseforge.com/minecraft/mc-mods/easy-anvils
+	- Easy Anvils makes working with anvils much more enjoyable. 
+
+## *REMOVED*
+
+DRG Flares (Forge) https://www.curseforge.com/minecraft/mc-mods/drg-flares-forge
+	- Just seems like bloat floating on the HUD at this point.
+
+
+## *UPDATED*
+
+- Exposure
+- Advanced Chimneys
+- Moonlight Lib
+- Tweaks addon for MineColonies
+- Easy Mob Farm
+- Sophisticated Backpacks
+- Balm
+- Ribbits
+- Structurize
+- Tree Harvester
+- End's Delight
+- Fruitful Fun 🍊
+- Goety & Spillage
+- Xaero's Minimap
+- Lithostitched
+- Goety - The Dark Arts
+- Crazy Chocobos!
+- RFTools Base
+- MEGA Cells
+- AutoModpack
+- Double Doors
+- Delightful
+- WATERMeDIA: Multimedia API
+- MrCrayfish's Furniture Mod: Refurbished
+- ExtendedAE
+- Chest With Legs
+- Ballistix
+- Illager Invasion [Forge & Fabric]
+- AdvancedAE
+- Sophisticated Core
+- AE2 QoL Recipes
+- Alshanex's Familiars
+- Byzantine Styles Pack for Minecolonies
+- Dynamic Trees - The Aether
+- The Bumblezone (NeoForge/Forge)
+- L_Ender 's Cataclysm
+-  Modonomicon
+- Supplementaries
+- Fusion (Connected Textures)
+- Collective
+- Amendments
+- Accessories
+- Botania
+- Cooking for Blockheads
+- Roundabout: The JoJo Mod
+- Doggy Talents Next
+- Tax' Tree Giant
+- Electrodynamics
+- Pretty Rain
+- Sophisticated Storage
+- Yung Structures Addon for Loot Integrations
+- ShadowizardLib
+- MineColonies
+- T.O Magic 'n Extras - Iron's Spells Addon
